@@ -65,7 +65,7 @@ You can find the switching the languages feature on the settings page of the acc
 
 ![1-1-f1b4022af1fc3464a63d4c005ed288d4](https://github.com/Lwin-Naing/CS-Manual/assets/150374633/24e99fad-0749-4125-8b97-4ddd35cca3ab)
 
-![1-2-01ebe6ffbc2566cadd974487c3345b9c.png](Environment%20Setting%20e027c98b5975455a8efbfe9bd1453d70/1-2-01ebe6ffbc2566cadd974487c3345b9c.png)
+![1-2-01ebe6ffbc2566cadd974487c3345b9c](https://github.com/Lwin-Naing/CS-Manual/assets/150374633/24108407-0f73-4180-a289-2cce0406ee39)
 
 ## **Color theme switch**
 
